@@ -1,0 +1,3 @@
+controllers:
+    resource: ../../src/rx/tickets/
+    type: annotation
